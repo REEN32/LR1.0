@@ -1,0 +1,4 @@
+/home/german/Документы/453504/ОАиП/LR1/build/CMakeFiles/a.out.dir
+/home/german/Документы/453504/ОАиП/LR1/build/CMakeFiles/test.dir
+/home/german/Документы/453504/ОАиП/LR1/build/CMakeFiles/edit_cache.dir
+/home/german/Документы/453504/ОАиП/LR1/build/CMakeFiles/rebuild_cache.dir
