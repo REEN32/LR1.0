@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/german/Документы/453504/ОАиП/LR1/build",
+  "command": "/usr/bin/g++   -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/a.out.dir/google_tests.cpp.o -c /home/german/Документы/453504/ОАиП/LR1/google_tests.cpp",
+  "file": "/home/german/Документы/453504/ОАиП/LR1/google_tests.cpp",
+  "output": "CMakeFiles/a.out.dir/google_tests.cpp.o"
+}
+]

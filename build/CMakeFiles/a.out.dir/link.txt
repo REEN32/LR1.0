@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/a.out.dir/google_tests.cpp.o -o a.out  /usr/lib/x86_64-linux-gnu/libgtest.a 
+/usr/bin/g++ -g CMakeFiles/a.out.dir/google_tests.cpp.o -o a.out  /usr/lib/x86_64-linux-gnu/libgtest.a 
